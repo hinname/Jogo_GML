@@ -1,0 +1,92 @@
+{
+<<<<<<< Updated upstream
+    "id": "9415b3cb-af1f-461f-9dbb-b0921e294d32",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "teste2",
+    "eventList": [
+        {
+            "id": "305267bc-fa51-413b-814f-323097a3b73b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "9415b3cb-af1f-461f-9dbb-b0921e294d32"
+        },
+        {
+            "id": "0454ccae-f7cb-40ae-a0b7-dc2e4411bfc4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "9415b3cb-af1f-461f-9dbb-b0921e294d32"
+        }
+    ],
+    "maskSpriteId": "8bbc5a60-a73d-4478-9829-30a27e5abdff",
+    "overriddenProperties": null,
+    "parentObjectId": "344ce3b8-b8b4-46cd-b6de-1a7bb5a83f84",
+    "persistent": false,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": false,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 1,
+    "physicsShapePoints": null,
+    "physicsStartAwake": true,
+    "properties": null,
+    "solid": false,
+    "spriteId": "8bbc5a60-a73d-4478-9829-30a27e5abdff",
+    "visible": true
+=======
+  "spriteId": {
+    "name": "testeparado1",
+    "path": "sprites/testeparado1/testeparado1.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": {
+    "name": "testeparado1",
+    "path": "sprites/testeparado1/testeparado1.yy",
+  },
+  "persistent": false,
+  "parentObjectId": {
+    "name": "lifeforms2",
+    "path": "objects/lifeforms2/lifeforms2.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsGroup": 0,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"teste2","path":"objects/teste2/teste2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"teste2","path":"objects/teste2/teste2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Objects",
+    "path": "folders/Objects.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "teste2",
+  "tags": [],
+  "resourceType": "GMObject",
+>>>>>>> Stashed changes
+}

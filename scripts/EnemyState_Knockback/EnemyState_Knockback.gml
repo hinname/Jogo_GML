@@ -1,0 +1,1 @@
+knockback_state(inimigo_hitstun, "Chase")
